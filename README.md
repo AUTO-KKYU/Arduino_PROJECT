@@ -23,7 +23,6 @@
   </ol>
 </details>
 
---- 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -78,4 +77,10 @@ First you must download Arduino IDE "https://www.arduino.cc/"
   ![스크린샷 2024-02-04 173714](https://github.com/AUTO-KKYU/Arduino_PROJECT/assets/118419026/b0aa13b6-979f-4350-ac7b-c4fe885c23ed)
   ![스크린샷 2024-02-04 174011](https://github.com/AUTO-KKYU/Arduino_PROJECT/assets/118419026/b9071415-347b-4f4b-9550-82ab4af7b3b8)
   ![스크린샷 2024-02-04 174809](https://github.com/AUTO-KKYU/Arduino_PROJECT/assets/118419026/c6dd88c4-1bde-499d-8308-842653cee343)
+
+
+
+  ### Implemented video
+  ![simulation](https://github.com/AUTO-KKYU/Arduino_PROJECT/assets/118419026/f2552daa-78b7-4d92-a9f4-6e926e63c5e0)
+  ![video](https://github.com/AUTO-KKYU/Arduino_PROJECT/assets/118419026/00b8ab16-8c4d-4982-9a1e-226da82bb292)
 
