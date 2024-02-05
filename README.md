@@ -9,6 +9,7 @@
       <ul>
         <li><a href="#configuration">Configuration</a></li>
         <li><a href="#List of components used">List of components used</a></li>
+        <li><a href="#tinkerCAD">tinkerCAD</a></li>
         <li><a href="#function list">Function List</a></li>
       </ul>
     </li>
@@ -26,9 +27,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![pic](https://github.com/AUTO-KKYU/Arduino_PROJECT/assets/118419026/d5d5edc5-8ae1-469e-a95b-8b5bb6958583)
-
-
 ### Configuration
 - 최소 3층 이상 엘레베이터 구현
 - 엘레베이터의 현재 위치를 나타내는 LED 구성
@@ -38,8 +36,12 @@
 - 각 층마다 호출 상태를 나타내는 LED 있어야 함
 
 ### List of components used
--  Arduino Uno , LED – RED *2 / YELLOW * 4 / GREEN * 2, 200 Ω 막대저항 * 12
--  Button Switch * 3 , 점퍼 와이어 M-M
+![스크린샷 2024-02-05 210339](https://github.com/AUTO-KKYU/Arduino_PROJECT/assets/118419026/50846616-ab6d-4382-ab6a-3bd80b9591c2)
+
+
+### tinkerCAD
+![스크린샷 2024-02-04 235710](https://github.com/AUTO-KKYU/Arduino_PROJECT/assets/118419026/739296e2-a06f-4a08-ac75-ecb06dd683e1)
+![pic](https://github.com/AUTO-KKYU/Arduino_PROJECT/assets/118419026/d5d5edc5-8ae1-469e-a95b-8b5bb6958583)
 
 ### Function List
 ![Functional list](https://github.com/AUTO-KKYU/Arduino_PROJECT/assets/118419026/4c7af3b2-e81d-4ba1-88ca-2b11b12fd413)
@@ -71,7 +73,7 @@ First you must download Arduino IDE "https://www.arduino.cc/"
   sudo chmod a+aw /dev/ttyACM0
   ```
   ### Flowchart
-  ![Elevator_project drawio](https://github.com/AUTO-KKYU/Arduino_PROJECT/assets/118419026/47d34a55-d547-4ac2-9135-8aea18e1e625)
+![Elevator_project drawio](https://github.com/AUTO-KKYU/Arduino_PROJECT/assets/118419026/c504c0c0-1275-49a2-91a7-c31404421e3e)
 
   ![스크린샷 2024-02-04 174643](https://github.com/AUTO-KKYU/Arduino_PROJECT/assets/118419026/15488067-61ec-42fc-a2e8-701447fcb996)
   ![스크린샷 2024-02-04 173714](https://github.com/AUTO-KKYU/Arduino_PROJECT/assets/118419026/b0aa13b6-979f-4350-ac7b-c4fe885c23ed)
