@@ -44,6 +44,7 @@
 ![pic](https://github.com/AUTO-KKYU/Arduino_PROJECT/assets/118419026/d5d5edc5-8ae1-469e-a95b-8b5bb6958583)
 
 ### Function List
+![스크린샷 2024-02-05 212316](https://github.com/AUTO-KKYU/Arduino_PROJECT/assets/118419026/cf71259a-0eb2-4043-abe6-ba9dec9d41c4)
 ![Functional list](https://github.com/AUTO-KKYU/Arduino_PROJECT/assets/118419026/4c7af3b2-e81d-4ba1-88ca-2b11b12fd413)
 
 ---
